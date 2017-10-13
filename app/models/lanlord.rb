@@ -1,0 +1,2 @@
+class Lanlord < ApplicationRecord
+end
